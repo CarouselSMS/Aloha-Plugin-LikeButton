@@ -1,5 +1,16 @@
-Adds a Facebook Like button to a page.
+Aloha plugin: Facebook "Like" button
+====================================
 
-![the insert button](https://img.skitch.com/20120429-pfttnb7dhbhd86a9uiaqpxrhw.png)
+Adds a Facebook Like button to to the [Aloha Editor](http://www.aloha-editor.org/).
 
-![after clicking the button](https://img.skitch.com/20120429-cwhabwbit5h6q2c9bsegbyc5hs.png)
+![the insert button](http://dl.dropboxusercontent.com/u/225019/insert-aloha-facebook-like.png)
+
+![after clicking the button, details view](http://dl.dropboxusercontent.com/u/225019/aloha-facebook-like-details.png)
+
+
+License
+=======
+
+The Aloha color slector plugin is Copyright © 2013 [Recess Mobile](http://recess.im/).
+
+It is free software, and may be redistributed under the terms specified in the MIT-LICENSE file.
